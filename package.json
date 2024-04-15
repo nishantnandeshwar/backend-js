@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Develope a backend api's using JS",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishantnandeshwar/backend-js.git"
+  },
+  "author": "Nishant Nandeshwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishantnandeshwar/backend-js/issues"
+  },
+  "homepage": "https://github.com/nishantnandeshwar/backend-js#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
