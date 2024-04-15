@@ -2,10 +2,11 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "Develope a backend api's using JS",
-  "main": "server.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js",
+    "dev":"nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
   "homepage": "https://github.com/nishantnandeshwar/backend-js#readme",
   "dependencies": {
     "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
   }
 }
