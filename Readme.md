@@ -13,3 +13,6 @@
 
 - add access_token_secret, access_token_expiry, refresh_token_secret, refresh_token_expiry in .env file
 - create own methods for generateAccessToken, generateRefreshToken
+- work on file upload using https://cloudinary.com/ and (express-fileupload or multer library) so add "npm install cloudinary" and "npm i multer"
+- add cloudinary function for upload the file.
+- create a middleware using multer <b>(jate jate milke jana) </b>
