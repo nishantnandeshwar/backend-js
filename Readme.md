@@ -17,3 +17,4 @@
 - add cloudinary function for upload the file.
 - create a middleware using multer <b>(jate jate milke jana) </b>
 - <h2>Till now, above code are only setup </h2>  
+- Create a controller and routes.
